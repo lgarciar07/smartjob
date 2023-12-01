@@ -1,0 +1,1 @@
+INSERT INTO login (usuario, password, estado, usuario_creacion, fecha_creacion) VALUES ('admin','$2a$10$/DAZmyFyYCijIxCVa6oVG.yZx2o2QYcVTmwBm8tslIxWw9SIyaQja', 1,'USER_BCI', NOW());
